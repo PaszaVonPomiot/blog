@@ -1,0 +1,8 @@
+[submodule "strefadysk/paszavonpomiot.github.io"]
+	path = strefadysk/paszavonpomiot.github.io
+	url = https://github.com/PaszaVonPomiot/paszavonpomiot.github.io.git
+	branch = master
+[submodule "strefadysk/public"]
+	path = strefadysk/public
+	url = https://github.com/PaszaVonPomiot/paszavonpomiot.github.io.git
+	branch = master

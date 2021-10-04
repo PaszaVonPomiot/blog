@@ -1,0 +1,4 @@
+baseURL = 'https://paszavonpomiot.github.io/'
+languageCode = 'pl-PL'
+title = 'Strefa Dyskomfortu'
+theme="hugo-casper3"
