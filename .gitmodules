@@ -6,3 +6,6 @@
 	path = strefadysk/public
 	url = https://github.com/PaszaVonPomiot/paszavonpomiot.github.io.git
 	branch = master
+[submodule "strefadysk/themes/hugo-coder"]
+	path = strefadysk/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

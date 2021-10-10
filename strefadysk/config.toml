@@ -1,4 +1,37 @@
 baseURL = 'https://paszavonpomiot.github.io/'
 languageCode = 'pl-PL'
+defaultContentLanguage = 'en'
 title = 'Strefa Dyskomfortu'
-theme="hugo-casper3"
+theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+enableEmoji = true
+
+[params]
+author = "PaszaVonPomiot"
+description = "Strefa Dyskomfortu"
+info = ["autor",]
+favicon_32 = '/images/favicon.png'
+gravatar = "schedar@op.pl"
+hideFooter = false
+hideCredits = true
+hideCopyright = false
+since = 2017
+colorScheme = 'light'
+hideColorSchemeToggle = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
