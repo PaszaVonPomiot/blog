@@ -16,6 +16,7 @@ enableEmoji = true
 author = "PaszaVonPomiot"
 description = "Strefa Dyskomfortu"
 info = ["autor",]
+favicon_16 = '/branding/favicon.png'
 favicon_32 = '/branding/favicon.png'
 gravatar = "schedar@op.pl"
 hideFooter = false
