@@ -1,4 +1,5 @@
 # Blog info
+Backend for https://github.com/PaszaVonPomiot/paszavonpomiot.github.io
 
 ## Techonology
 - Static Site Generator: Hugo
